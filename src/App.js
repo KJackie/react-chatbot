@@ -11,7 +11,7 @@ const App = (props) => {
     return (
       <>
       <div className = "header">
-        <h2>My Application!!!</h2>
+        <h2>Simple App!!!</h2>
       </div>
       <div className = "main">
         <div className ="nav">
